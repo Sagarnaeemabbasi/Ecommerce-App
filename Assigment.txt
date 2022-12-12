@@ -1,0 +1,5 @@
+command in command prompt
+npm run build (first command in command prompt)
+
+MAKE TIMER WHILE DOING THE QUIZ APP
+
